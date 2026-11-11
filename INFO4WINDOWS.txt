@@ -1,0 +1,5 @@
+Steps:
+1. Download Java 17 (LTS) (https://adoptium.net/temurin/releases/?version=17)
+2. Double click on run.bat
+3. Enjoy
+4. "exit" to exit
